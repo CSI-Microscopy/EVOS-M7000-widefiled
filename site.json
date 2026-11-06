@@ -1,0 +1,9 @@
+{
+  "name": "EVOS M7000 Imaging System",
+  "short": "EVOS M7000",
+  "description": "Quick start and shutdown guide for the EVOS M7000 imaging system at the Faculty of Agriculture CSI Microscopy unit, with the manufacturer’s quick reference guide.",
+  "menu": [
+    { "label": "Guide", "href": "./" },
+    { "label": "Quick reference", "href": "MAN0018380_EVOS_M7000_QR.pdf" }
+  ]
+}
