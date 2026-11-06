@@ -1,7 +1,7 @@
 ## Last Updated: 2024-05-27
 # EVOS™ M7000 Imaging System Quick Start and Shutdown Guide
 
-### Quick Start Guide - For detailed instructions, refer to the [EVOS M7000 Quick Reference Guide](https://github.com/Faculty-of-Agriculture-CSI-Microscopy/EVOS-M7000-widefiled/blob/master/MAN0018380_EVOS_M7000_QR.pdf).
+### Quick Start Guide - For detailed instructions, refer to the [EVOS M7000 Quick Reference Guide](MAN0018380_EVOS_M7000_QR.pdf).
 
 ### 1. Turn on the EVOS™ M7000 Imaging System
 > [!Caution]
@@ -48,7 +48,7 @@
 - **Step 4:** Click the Image Display settings button again to collapse the controls.
 > [!TIP]
 > When viewing dark channels like DAPI, it is recommended to view them in grayscale, and not in blue (pseudocolor).
-> You can toggle (LUT) between these modes with the color display button <img width="18" alt="2024-05-27_19h01_45" src="https://github.com/Faculty-of-Agriculture-CSI-Microscopy/EVOS-M7000-widefiled/assets/55537771/7f7d701d-d1fa-4f1e-94ba-39e811ec6986">.
+> You can toggle (LUT) between these modes with the color display button <img width="18" alt="2024-05-27_19h01_45" src="assets/color-display-button.png">.
 
 
 ### 7. Focus on the Sample
