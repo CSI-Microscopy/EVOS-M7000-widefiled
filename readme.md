@@ -1,15 +1,15 @@
 ## Last Updated: 2024-05-27
-# EVOS™ M7000 Imaging System Quick Start and Shutdown Guide
+# EVOS FL Auto Quick Start and Shutdown Guide
 
-### Quick Start Guide - For detailed instructions, refer to the [EVOS M7000 Quick Reference Guide](MAN0018380_EVOS_M7000_QR.pdf).
+### Quick Start Guide - For detailed instructions, refer to the [EVOS Quick Reference Guide](MAN0018380_EVOS_M7000_QR.pdf) (M7000 quick-reference card; the FL Auto procedure is the same).
 
-### 1. Turn on the EVOS™ M7000 Imaging System
+### 1. Turn on the EVOS FL Auto
 > [!Caution]
 > Ensure the objective is set to the smallest magnification (4X) to avoid damage to the microscope.
 
 - **Step 1:** Turn the instrument power switch located at the back of the instrument base to the ON position.
 - **Step 2:** Turn the computer and monitor ON.
-- **Step 3:** When the computer shows the Windows™ desktop and the X-Y stage has stopped moving, click the M7000 icon to start the EVOS™ M7000 software.
+- **Step 3:** When the computer shows the Windows™ desktop and the X-Y stage has stopped moving, click the EVOS FL Auto icon to start the EVOS FL Auto software.
 - **Step 4:** The Capture tab will be displayed, indicating that the system is ready to use.
 
 ### 2. Select Sample Vessel
@@ -99,10 +99,10 @@
 
 - **Step 6:** After selecting save options for your captured images, click Save.
 
-### 2. Turn off the EVOS™ M7000 Imaging System
+### 2. Turn off the EVOS FL Auto
 > [!Caution]
 > Ensure the objective is set to the smallest magnification (4X) to avoid damage to the microscope.
 
-- **Step 1:** Exit the EVOS™ M7000 software.
+- **Step 1:** Exit the EVOS FL Auto software.
 - **Step 2:** Turn off the computer and monitor.
 - **Step 3:** Turn the instrument power switch at the back of the instrument base to the OFF position.
